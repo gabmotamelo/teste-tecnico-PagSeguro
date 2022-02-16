@@ -34,11 +34,11 @@ cálculado o custo para cada produto em cada transportadora.
 
 ![part1](https://user-images.githubusercontent.com/88755473/154276804-10f276e3-85e5-413f-b722-643fe2c3ab8e.png)
 
-- <b>`frete.py`</b> - Definindo classes e funções para calculo de custo:
+- <b>`frete.py`</b> - Definindo classes e funções para cálculo de custo:
 
 ![part2](https://user-images.githubusercontent.com/88755473/154283113-6ccebb62-bf6e-4dff-bdb7-5a3753c1a29f.png)
 
-- <b>`main.py`</b> - Importando as classes e executando as funções:
+- <b>`main.py`</b> - Importando as classes e executando ás funções:
 
 ![part3](https://user-images.githubusercontent.com/88755473/154284160-5a6ec5d2-b7bf-416f-bc63-03cbc824f657.png)
 
